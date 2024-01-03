@@ -1,4 +1,5 @@
-### Hi there 👋
+### Telegram Bots Dev;
+### Discord Bots Dev.
 
 <!--
 **ewwhtobe/ewwhtobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
